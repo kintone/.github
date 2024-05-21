@@ -1,4 +1,4 @@
-# Support
+# Support resources
 
 ## :speech_balloon: Questions
 
