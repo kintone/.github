@@ -1,11 +1,18 @@
 # Welcome to kintone!!
 
+Here are resources for developing plugins, customizations, and integrations for kintone!
+
+## Tutorials
+
+Are you new to kintone development? Please see our tutorials
+first! \[[日本語](https://cybozu.dev/ja/tutorials/)\] \[[English](https://kintone.dev/en/tutorials/)\].
+
 ## Libraries & Tools
 
 |                                                                       |                                                  |
 |-----------------------------------------------------------------------|--------------------------------------------------|
-| [kintone-java-client](https://github.com/kintone/kintone-java-client) | API client library for kintone REST APIs on Java |
 | [js-sdk](https://github.com/kintone/js-sdk)                           | SDK for kintone plugin/customization development |
+| [kintone-java-client](https://github.com/kintone/kintone-java-client) | API client library for kintone REST APIs on Java |
 | [cli-kintone](https://github.com/kintone/cli-kintone)                 | The CLI tool to import/export kintone records    |
 
 ## Documentations
