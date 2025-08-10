@@ -2,6 +2,10 @@
 
 Here are resources for developing plugins, customizations, and integrations for kintone!
 
+## What is kintone?
+
+[日本語](https://kintone.cybozu.co.jp/) / [English](https://www.kintone.com/en-us/intro/) / [中文（简体）](http://www.kintone.cn/)
+
 ## Tutorials
 
 Are you new to kintone development? Please see our tutorials
